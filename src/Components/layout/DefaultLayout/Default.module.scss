@@ -6,11 +6,8 @@
 .container {
     width: var(--default-layout-width);
     min-height: var(--default-layout-min-height);
-    background-color: #333;
     display: flex;
 }
 .content {
     flex: 1;
-    background-color: #fff;
-    min-height: var(--default-layout-min-height);
 }
